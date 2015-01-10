@@ -1,0 +1,43 @@
+c:\users\käyttäjä\documents\visual studio 2013\Projects\splittest2\splittest2\bin\Debug\splittest2.exe.config
+c:\users\käyttäjä\documents\visual studio 2013\Projects\splittest2\splittest2\bin\Debug\splittest2.exe
+c:\users\käyttäjä\documents\visual studio 2013\Projects\splittest2\splittest2\bin\Debug\splittest2.pdb
+c:\users\käyttäjä\documents\visual studio 2013\Projects\splittest2\splittest2\obj\Debug\splittest2.csprojResolveAssemblyReference.cache
+c:\users\käyttäjä\documents\visual studio 2013\Projects\splittest2\splittest2\obj\Debug\splittest2.exe
+c:\users\käyttäjä\documents\visual studio 2013\Projects\splittest2\splittest2\obj\Debug\splittest2.pdb
+C:\Users\Käyttäjä\Documents\Visual Studio 2013\Projects\splittest2\splittest2\bin\Debug\WindowsInput.dll
+C:\Users\Käyttäjä\Documents\Visual Studio 2013\Projects\splittest2\splittest2\bin\Debug\WindowsInput.xml
+C:\Users\NAME\Documents\tompsplit\splittest2\bin\Debug\splittest2.exe.config
+C:\Users\NAME\Documents\tompsplit\splittest2\obj\Debug\splittest2.exe
+C:\Users\NAME\Documents\tompsplit\splittest2\obj\Debug\splittest2.pdb
+C:\Users\NAME\Documents\tompsplit\splittest2\bin\Debug\splittest2.exe
+C:\Users\NAME\Documents\tompsplit\splittest2\bin\Debug\splittest2.pdb
+C:\Users\NAME\Documents\tompsplit\splittest2\bin\Debug\WindowsInput.dll
+C:\Users\NAME\Documents\tompsplit\splittest2\bin\Debug\WindowsInput.xml
+C:\Users\NAME\Documents\tompsplit\splittest2\obj\Debug\splittest2.csprojResolveAssemblyReference.cache
+D:\Users\oskari.maki.KOUDATA\Desktop\tomp\tompsplit\splittest2\bin\Debug\splittest2.exe.config
+D:\Users\oskari.maki.KOUDATA\Desktop\tomp\tompsplit\splittest2\obj\Debug\splittest2.exe
+D:\Users\oskari.maki.KOUDATA\Desktop\tomp\tompsplit\splittest2\obj\Debug\splittest2.pdb
+D:\Users\oskari.maki.KOUDATA\Desktop\tomp\tompsplit\splittest2\bin\Debug\splittest2.exe
+D:\Users\oskari.maki.KOUDATA\Desktop\tomp\tompsplit\splittest2\bin\Debug\splittest2.pdb
+D:\Users\oskari.maki.KOUDATA\Desktop\tomp\tompsplit\splittest2\bin\Debug\WindowsInput.dll
+D:\Users\oskari.maki.KOUDATA\Desktop\tomp\tompsplit\splittest2\bin\Debug\WindowsInput.xml
+D:\Users\oskari.maki.KOUDATA\Desktop\tomp\tompsplit\splittest2\obj\Debug\splittest2.csprojResolveAssemblyReference.cache
+C:\Users\Käyttäjä\Desktop\tomp\splittest2\bin\Debug\splittest2.exe.config
+C:\Users\Käyttäjä\Desktop\tomp\splittest2\obj\Debug\splittest2.exe
+C:\Users\Käyttäjä\Desktop\tomp\splittest2\obj\Debug\splittest2.pdb
+D:\Users\oskari.maki.KOUDATA\Desktop\tompsplitter\tompsplit\splittest2\bin\Debug\splittest2.exe.config
+D:\Users\oskari.maki.KOUDATA\Desktop\tompsplitter\tompsplit\splittest2\obj\Debug\splittest2.exe
+D:\Users\oskari.maki.KOUDATA\Desktop\tompsplitter\tompsplit\splittest2\obj\Debug\splittest2.pdb
+D:\Users\oskari.maki.KOUDATA\Desktop\tompsplitter\tompsplit\splittest2\bin\Debug\splittest2.exe
+D:\Users\oskari.maki.KOUDATA\Desktop\tompsplitter\tompsplit\splittest2\bin\Debug\splittest2.pdb
+D:\Users\oskari.maki.KOUDATA\Desktop\tompsplitter\tompsplit\splittest2\bin\Debug\WindowsInput.dll
+D:\Users\oskari.maki.KOUDATA\Desktop\tompsplitter\tompsplit\splittest2\bin\Debug\WindowsInput.xml
+D:\Users\oskari.maki.KOUDATA\Desktop\tompsplitter\tompsplit\splittest2\obj\Debug\splittest2.csprojResolveAssemblyReference.cache
+C:\Users\Käyttäjä\Desktop\nnero-tompsplit-66e5a2af6650\splittest2\bin\Debug\splittest2.exe.config
+C:\Users\Käyttäjä\Desktop\nnero-tompsplit-66e5a2af6650\splittest2\obj\Debug\splittest2.exe
+C:\Users\Käyttäjä\Desktop\nnero-tompsplit-66e5a2af6650\splittest2\obj\Debug\splittest2.pdb
+C:\Users\Käyttäjä\Desktop\nnero-tompsplit-66e5a2af6650\splittest2\bin\Debug\splittest2.exe
+C:\Users\Käyttäjä\Desktop\nnero-tompsplit-66e5a2af6650\splittest2\bin\Debug\splittest2.pdb
+C:\Users\Käyttäjä\Desktop\nnero-tompsplit-66e5a2af6650\splittest2\bin\Debug\WindowsInput.dll
+C:\Users\Käyttäjä\Desktop\nnero-tompsplit-66e5a2af6650\splittest2\bin\Debug\WindowsInput.xml
+C:\Users\Käyttäjä\Desktop\nnero-tompsplit-66e5a2af6650\splittest2\obj\Debug\splittest2.csprojResolveAssemblyReference.cache
