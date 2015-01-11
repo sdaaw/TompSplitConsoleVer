@@ -224,7 +224,10 @@ namespace splittest2
                     //Console.Clear();
                     //Console.WriteLine("{0}({1}) -> {2}({3})", 
                     //   levels[old_level], old_level, levels[(int)value[0]], (int)value[0]);
-                    Console.WriteLine(levels[old_level] + ": " + lastLevelTime);
+                    if (old_level > 0)
+                        Console.WriteLine(levels[old_level] + ": " + lastLevelTime);
+                    else
+                        Console.WriteLine("ok gogo");
 
                     old_level = value[0];
                 }
