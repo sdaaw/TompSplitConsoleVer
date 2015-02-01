@@ -117,31 +117,56 @@ namespace splittest2
 
         public static void ShowMenu()
         {
-            RunSplitProgram();
-            //Console.TreatControlCAsInput = true;
+
+            Console.Clear();
+
             string option;
             int optionInt;
-            Console.WriteLine("Press a numerical key to select your option.");
+
+            Process[] getTompProcess = Process.GetProcesses();
+            for (int i = 0; i < getTompProcess.Length; i++)
+            {
+                Console.Write(".");
+                if (getTompProcess[i].ProcessName == "Tomb2")
+                {
+                    TheLoop(0);
+                    break;
+                }
+                if (getTompProcess[i].ProcessName == "Tomb3")
+                {
+                    TheLoop(1);
+                    break;
+                }
+                if (getTompProcess[i].ProcessName == "Tomb3g")
+                {
+                    TheLoop(2);
+                    break;
+                }
+                System.Threading.Thread.Sleep(10);
+            }
+
+            Console.WriteLine("\nNo tomps running!\nWhat tomp are you planning to urn?");
             Console.WriteLine("=============================================================================");
             Console.WriteLine(" ");
-            Console.WriteLine("1. Ready to start.");
+            Console.WriteLine("1. Tomb Raider II");
+            Console.WriteLine("2. Tomb Raider III");
+            Console.WriteLine("3. Tomb Raider The Lost Artifact");
+
             option = Console.ReadLine();
-            optionInt = Convert.ToInt32(option);
-            switch(optionInt)
-            {
-                case 1:
-                {
-                    RunSplitProgram();
-                    break;
-                }
-                case 2:
-                {
-                    break;
-                }
-            }
+            optionInt = Convert.ToInt32(option) - 1;
+
+            TheLoop(optionInt);
+
             Console.WriteLine("ERROR: Invalid option.");
             Console.ReadKey();
-            RunSplitProgram();
+            ShowMenu();
+
+            // TOMP 2 LEVEL ADDRESS int 0x4D9EB0;
+            // TOMP 3 LEVEL ADDRESS int 0x4C561C;
+            // TOMP 3 GOLD LEVEL ADDRESS int 0x4C05FE;
+            // TOMP 2 TITLE SCREEN FLAG ADDRESS int 0x51BD90;
+            // TOMP 3 TITLE SCREEN FLAG ADDRESS int 0x6A1B78;
+            // TOMP 3 GOLD TITLE SCREEN FLAG ADDRESS int 0x69AA04;
         }
 
         public static void EnterKeyBinds()
@@ -256,38 +281,6 @@ namespace splittest2
             }
             System.Threading.Thread.Sleep(200);
             KeyInput();
-        }
-
-        public static void RunSplitProgram()
-        {
-
-            Console.Clear();
-
-            string option;
-            int optionInt;
-
-            Console.WriteLine("What tomp are you planning to urn?");
-            Console.WriteLine("=============================================================================");
-            Console.WriteLine(" ");
-            Console.WriteLine("1. Tomb Raider II");
-            Console.WriteLine("2. Tomb Raider III");
-            Console.WriteLine("3. Tomb Raider The Lost Artifact");
-
-            option = Console.ReadLine();
-            optionInt = Convert.ToInt32(option) - 1;
-
-            TheLoop(optionInt);
-
-            Console.WriteLine("ERROR: Invalid option.");
-            Console.ReadKey();
-            RunSplitProgram();
-
-            // TOMP 2 LEVEL ADDRESS int 0x4D9EB0;
-            // TOMP 3 LEVEL ADDRESS int 0x4C561C;
-            // TOMP 3 GOLD LEVEL ADDRESS int 0x4C05FE;
-            // TOMP 2 TITLE SCREEN FLAG ADDRESS int 0x51BD90;
-            // TOMP 3 TITLE SCREEN FLAG ADDRESS int 0x6A1B78;
-            // TOMP 3 GOLD TITLE SCREEN FLAG ADDRESS int 0x69AA04;
         }
     }
 }

@@ -41,3 +41,11 @@ C:\Users\Käyttäjä\Desktop\nnero-tompsplit-66e5a2af6650\splittest2\bin\Debug\s
 C:\Users\Käyttäjä\Desktop\nnero-tompsplit-66e5a2af6650\splittest2\bin\Debug\WindowsInput.dll
 C:\Users\Käyttäjä\Desktop\nnero-tompsplit-66e5a2af6650\splittest2\bin\Debug\WindowsInput.xml
 C:\Users\Käyttäjä\Desktop\nnero-tompsplit-66e5a2af6650\splittest2\obj\Debug\splittest2.csprojResolveAssemblyReference.cache
+C:\Users\Käyttäjä\Desktop\nnero-tompsplit-66e5a2af6650\TompSplitConsoleVer\TompSplitConsoleVer\splittest2\bin\Debug\splittest2.exe.config
+C:\Users\Käyttäjä\Desktop\nnero-tompsplit-66e5a2af6650\TompSplitConsoleVer\TompSplitConsoleVer\splittest2\obj\Debug\splittest2.exe
+C:\Users\Käyttäjä\Desktop\nnero-tompsplit-66e5a2af6650\TompSplitConsoleVer\TompSplitConsoleVer\splittest2\obj\Debug\splittest2.pdb
+C:\Users\Käyttäjä\Desktop\nnero-tompsplit-66e5a2af6650\TompSplitConsoleVer\TompSplitConsoleVer\splittest2\bin\Debug\splittest2.exe
+C:\Users\Käyttäjä\Desktop\nnero-tompsplit-66e5a2af6650\TompSplitConsoleVer\TompSplitConsoleVer\splittest2\bin\Debug\splittest2.pdb
+C:\Users\Käyttäjä\Desktop\nnero-tompsplit-66e5a2af6650\TompSplitConsoleVer\TompSplitConsoleVer\splittest2\bin\Debug\WindowsInput.dll
+C:\Users\Käyttäjä\Desktop\nnero-tompsplit-66e5a2af6650\TompSplitConsoleVer\TompSplitConsoleVer\splittest2\bin\Debug\WindowsInput.xml
+C:\Users\Käyttäjä\Desktop\nnero-tompsplit-66e5a2af6650\TompSplitConsoleVer\TompSplitConsoleVer\splittest2\obj\Debug\splittest2.csprojResolveAssemblyReference.cache
