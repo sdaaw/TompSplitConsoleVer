@@ -49,3 +49,11 @@ C:\Users\Käyttäjä\Desktop\nnero-tompsplit-66e5a2af6650\TompSplitConsoleVer\To
 C:\Users\Käyttäjä\Desktop\nnero-tompsplit-66e5a2af6650\TompSplitConsoleVer\TompSplitConsoleVer\splittest2\bin\Debug\WindowsInput.dll
 C:\Users\Käyttäjä\Desktop\nnero-tompsplit-66e5a2af6650\TompSplitConsoleVer\TompSplitConsoleVer\splittest2\bin\Debug\WindowsInput.xml
 C:\Users\Käyttäjä\Desktop\nnero-tompsplit-66e5a2af6650\TompSplitConsoleVer\TompSplitConsoleVer\splittest2\obj\Debug\splittest2.csprojResolveAssemblyReference.cache
+C:\Users\NAME\Documents\Visual Studio 2013\Projects\GitHub\TompSplitConsoleVer\splittest2\bin\Debug\splittest2.exe.config
+C:\Users\NAME\Documents\Visual Studio 2013\Projects\GitHub\TompSplitConsoleVer\splittest2\obj\Debug\splittest2.exe
+C:\Users\NAME\Documents\Visual Studio 2013\Projects\GitHub\TompSplitConsoleVer\splittest2\obj\Debug\splittest2.pdb
+C:\Users\NAME\Documents\Visual Studio 2013\Projects\GitHub\TompSplitConsoleVer\splittest2\bin\Debug\splittest2.exe
+C:\Users\NAME\Documents\Visual Studio 2013\Projects\GitHub\TompSplitConsoleVer\splittest2\bin\Debug\splittest2.pdb
+C:\Users\NAME\Documents\Visual Studio 2013\Projects\GitHub\TompSplitConsoleVer\splittest2\bin\Debug\WindowsInput.dll
+C:\Users\NAME\Documents\Visual Studio 2013\Projects\GitHub\TompSplitConsoleVer\splittest2\bin\Debug\WindowsInput.xml
+C:\Users\NAME\Documents\Visual Studio 2013\Projects\GitHub\TompSplitConsoleVer\splittest2\obj\Debug\splittest2.csprojResolveAssemblyReference.cache
